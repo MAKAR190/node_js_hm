@@ -1,8 +1,8 @@
-List Contacts \n
+List Contacts
 https://ibb.co/Jr1L6bs
-Get Contact \n
+Get Contact
 https://ibb.co/86b7xHz
-Add Contact \n
+Add Contact
 https://ibb.co/C8LnCZ8
-Remove Contact \n
+Remove Contact
 https://ibb.co/tpMgGK7
